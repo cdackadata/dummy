@@ -11,3 +11,5 @@ public class AddTwoNumbers {
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
     }
 }
+
+// this is the second commit
